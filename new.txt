@@ -1,0 +1,10 @@
+git init // to create git folder
+
+git show // to handle the get command
+git add -A // to stich
+git commit -m // to give massage
+
+git config --global user.name "xxxNamexxx"
+git config --global user.email "xxxxx@gmail.com"
+
+git commit -m "intial commit" // to give massage
